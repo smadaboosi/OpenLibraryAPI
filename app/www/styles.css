@@ -1,0 +1,18 @@
+    #search{
+        border-radius: 20px;
+        margin-right: 0px;
+    }
+    
+    #searchButton{
+        border-radius: 20px;
+        margin-top: 20px;
+        margin-left: -10px;
+    }
+    
+    #message{
+        margin-left: 1vw;
+        color:steelblue;
+    }
+    #info{
+        border-radius: 10px;
+    }

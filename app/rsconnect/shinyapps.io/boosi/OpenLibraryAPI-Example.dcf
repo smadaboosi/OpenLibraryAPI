@@ -1,0 +1,13 @@
+name: OpenLibraryAPI-Example
+title: OpenLibraryAPI-Example
+username:
+account: boosi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5186773
+bundleId: 5462631
+url: https://boosi.shinyapps.io/OpenLibraryAPI-Example/
+when: 1642031271.29777
+lastSyncTime: 1642031271.29777
+asMultiple: FALSE
+asStatic: FALSE
